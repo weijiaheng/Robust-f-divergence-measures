@@ -12,7 +12,7 @@ This repository is the official Pytorch implementation of "[When Optimizing f-Di
 
 ## Utilities
 
-Details of reproducing our experiment results on MNIST, Fashion MNIST, CIFAR-10, CIFAR-100, Clothing 1M are mentioned in the ``README" file in each folder.
+Details of reproducing our experiment results on MNIST, Fashion MNIST, CIFAR-10, CIFAR-100, Clothing 1M are mentioned in the `README.md` file in each folder.
 
 We repeat Figure 1 in our paper here:
 
