@@ -16,6 +16,6 @@ python3 runner_C1M.py --r noise --s seed --divergence 'name' --warmup 0 --batchs
 ```
 
 Hints:
-> 📋 (1) For Clothing 1M real-world noisy dataset, we recommend training without bias correction (no need to install Keras, Tensorflow, Pytorch in your virtual environment) and load a pre-trained ResNet50 Model;
+> 📋 (1) For Clothing 1M real-world noisy dataset, we recommend training without bias correction (no need to install Keras, Tensorflow in your virtual environment) and load a pre-trained ResNet50 Model;
 
 > 📋 (2) Suggested divergence functions: Total-Variation, Jenson-Shannon, KL, Pearson, Jeffrey.
