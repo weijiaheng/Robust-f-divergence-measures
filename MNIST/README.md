@@ -33,7 +33,7 @@ Sparse-Low | Sparse-High | Uniform-Low | Uniform-High | Random-Low | Random-High
 r=0.1 | r=0.2 | r=0.3 | r=0.4 | r=0.5 | r=0.6
 
 Hints:
-> 📋 (1) For MNIST noisy dataset, we recommend training without bias correction (no need to install Keras, Tensorflow, Pytorch in your virtual environment);
+> 📋 (1) For MNIST noisy dataset, we recommend training without bias correction (no need to install Keras, Tensorflow);
 
 > 📋 (2) No need to warm-up with CE loss;
 
