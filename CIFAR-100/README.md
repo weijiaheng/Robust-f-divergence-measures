@@ -26,7 +26,7 @@ python3 runner.py --r noise --s seed --divergence 'name' --warmup 0 --batchsize 
 
 
 Hints:
-> 📋 (1) For CIFAR-100 noisy dataset, we recommend training without bias correction (no need to install Keras, Tensorflow, Pytorch in your virtual environment);
+> 📋 (1) For CIFAR-100 noisy dataset, we recommend training without bias correction (no need to install Keras, Tensorflow);
 
 > 📋 (2) The training is stable if: warm-up with CE loss or load a pre-trained CE model;
 
