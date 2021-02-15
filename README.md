@@ -5,7 +5,9 @@ This repository is the official Pytorch implementation of "[When Optimizing f-Di
 
 ## Required Packages & Environment
 **Supported OS:** Windows, Linux, Mac OS X; Python: 3.6/3.7; 
+
 **Deep Learning Library:** PyTorch (GPU required)
+
 **Required Packages:** Numpy, Pandas, random, sklearn, tqdm, csv, torch (Keras is required if you want to estimate the noise transition matrix).
 
 ## Utilities
@@ -14,7 +16,7 @@ Details of reproducing our experiment results on MNIST, Fashion MNIST, CIFAR-10,
 
 We repeat Figure 1 in our paper here:
 
-![Figure1](fig1.pdf)
+![Figure1](Figure1.png)
 
 ## Citation
 
